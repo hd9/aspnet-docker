@@ -1,6 +1,10 @@
 # aspnet-docker
 Simple demo of ASP.NET Core and Docker using .NET Core 3.1 LTS.
 
+## Read the Article
+To understand how to use this repo, make sure you read this article:   
+[Creating ASP.NET Core websites with Docker](https://blog.hildenco.com/2020/10/how-to-create-aspnet-core-website-with.html)
+
 ## Requirements
 In order to run this example, you'll need to have installed on your machine (Windows, Mac, Linux):
 * Docker Desktop (or Docker on Linux)
